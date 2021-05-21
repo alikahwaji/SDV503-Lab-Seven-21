@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Assessment Three 👋</h1>
+<h1 align="center">Welcome to Lab Seven 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -50,10 +50,9 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab Seven Description
 
-:arrow_right: List all Data types in C# provide your own examples and primitive and non primitive data types in c#.
+:arrow_right: List all Data types in C# provide your own examples and primitive and non primitive Data types in C#. (Use your journal MD file)
 
-
-:arrow_right: Compare JavaSCript Data Types and C# Data Types with examples.
+:arrow_right: Compare JavaSCript Data Types and C# Data Types with examples. (Use your journal MD file)
 
 ## :books: Resources 
 
