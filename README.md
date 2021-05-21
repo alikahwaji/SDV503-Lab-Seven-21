@@ -37,29 +37,28 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:one:|[@Watch](https://www.youtube.com/watch?v=fRLZIUxva5Q) Setup GitHub classroom as a student|:ballot_box_with_check:|
 |:two:|[@Watch](https://www.youtube.com/watch?v=yXT1ElMEkW8) How to clone a GitHub repo :computer:|:ballot_box_with_check:|
 |:three:|You must write comments explaining each line in your code. :flashlight:|:ballot_box_with_check:|
-|:four:|Copy the repo's Http url and paste it to your assessment dropbox on moodle with the zip folder :inbox_tray:|:ballot_box_with_check:|
-|:five:|No reflection Needed for this assessment :pencil:|:ballot_box_with_check:|
+|:four:|Copy the repo's Http url and paste it to your lab dropbox on moodle with the zip folder :inbox_tray:|:ballot_box_with_check:|
+|:five:|No reflection Needed for this lab :pencil:|:ballot_box_with_check:|
 
 |:1234:|:capital_abcd: Not Todos|:passport_control:|
 |:-:|---|---|
-|:one:|Do NOT fork the assessment repo :trident:|:heavy_multiplication_x:|
+|:one:|Do NOT fork the lab repo :trident:|:heavy_multiplication_x:|
 |:two:|Do NOT share your code :lock_with_ink_pen:|:heavy_multiplication_x:|
 |:three:|Do NOT commit your code without a message :incoming_envelope:|:heavy_multiplication_x:|
-|:four:|Do NOT Share the assessment repo :closed_lock_with_key:|:heavy_multiplication_x:|
+|:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Assessment Three Description
+## :page_facing_up: Lab Seven Description
 
-:arrow_right: Assessment Assessment Outline is provided in this README file, SDV503 Moodle and SDV503 MS teams. Follow the Assessment 
-              outline timeline and marking rubric
+:arrow_right: List all Data types in C# provide your own examples and primitive and non primitive data types in c#.
 
 
-:arrow_right: You MUST follow the GitHub classroom repo instrucation provided in the repo README file.
+:arrow_right: Compare JavaSCript Data Types and C# Data Types with examples.
 
 ## :books: Resources 
 
-|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Three Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/EQA9WEUtU_tDjaWlLF2BXskB0IBgxezrPwWMz2Oa-ylhXQ?e=dNPOdn)|[C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)|
-|---|---|---|---|
+|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)|
+|---|---|---|
 
 
 
